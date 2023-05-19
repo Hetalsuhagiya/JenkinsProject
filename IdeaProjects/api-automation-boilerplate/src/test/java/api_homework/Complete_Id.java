@@ -16,7 +16,6 @@ public class Complete_Id {
                 .get("2")
                 .then()
                 .extract().response();
-        JsonPath jsonPath = response.getBody().jsonPath();
         response.prettyPrint();
         Assert.assertEquals(response.getStatusCode(),200);
         Assert.assertEquals(response.jsonPath().getString("title"),"quis ut nam facilis et officia qui");

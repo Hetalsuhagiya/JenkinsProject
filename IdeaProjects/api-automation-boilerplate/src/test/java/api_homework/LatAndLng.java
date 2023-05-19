@@ -16,6 +16,7 @@ public class LatAndLng {
                 .get()
                 .then()
                 .extract().response();
+        JsonPath jsonPath = response.getBody().jsonPath();
         response.prettyPrint();
         Assert.assertEquals(response.getStatusCode(),200);
         Assert.assertEquals(response.jsonPath().getDouble("address.geo.lat"),-43.9509);
