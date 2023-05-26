@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b3524149-c06f-4375-848a-acf6817d3d43" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/IdeaProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_beust_jcommander_1_82.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_google_auto_auto_common_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_google_auto_service_auto_service_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_google_auto_service_auto_service_annotations_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_google_guava_guava_31_1_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_typesafe_netty_netty_reactive_streams_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__dev_failsafe_failsafe_3_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_buffer_4_1_90_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_codec_4_1_90_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_codec_http_4_1_90_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_60_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_common_4_1_90_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_handler_4_1_90_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_60_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_resolver_4_1_90_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_transport_4_1_90_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_transport_classes_epoll_4_1_90_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_transport_classes_kqueue_4_1_90_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_1_90_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_60_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_transport_native_kqueue_4_1_90_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_transport_native_kqueue_osx_x86_64_4_1_60_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_90_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_opentelemetry_opentelemetry_api_1_24_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_opentelemetry_opentelemetry_api_events_1_24_0_alpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_opentelemetry_opentelemetry_api_logs_1_24_0_alpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_opentelemetry_opentelemetry_context_1_24_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_opentelemetry_opentelemetry_exporter_logging_1_24_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_1_24_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_common_1_24_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_extension_autoconfigure_1_24_0_alpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_extension_autoconfigure_spi_1_24_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_logs_1_24_0_alpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_metrics_1_24_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_trace_1_24_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_opentelemetry_opentelemetry_semconv_1_24_0_alpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_ous_jtoml_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__junit_junit_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_14_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_asynchttpclient_async_http_client_2_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_asynchttpclient_async_http_client_netty_utils_2_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_checkerframework_checker_qual_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_4_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_4_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chromium_driver_4_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v109_4_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v110_4_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v111_4_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v85_4_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_4_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_4_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_http_4_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_4_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_4_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_json_4_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_manager_4_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_4_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_4_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_4_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_36.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_testng_testng_7_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_webjars_jquery_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDProject_2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDProject_2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDProject_2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDProject_2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDProject_2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDProject_2/src/main/java/org/example/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDProject_2/src/main/java/org/example/CheckOutDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDProject_2/src/main/java/org/example/CreditCardDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDProject_2/src/main/java/org/example/DriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDProject_2/src/main/java/org/example/GuestCheckOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDProject_2/src/main/java/org/example/Homepage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDProject_2/src/main/java/org/example/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDProject_2/src/test/java/features/checkOut.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDProject_2/src/test/java/org/example/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDProject_2/src/test/java/org/example/MyStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDProject_2/src/test/java/org/example/RunCuke.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Practice/Java Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenFirst/MavenFirst.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POExercise01/POExercise01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POExercise02/POExercise02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POExercise02/src/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POExercise02/src/test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectForJenkins2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectForJenkins2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectForJenkins2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectForJenkins2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectForJenkins2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectForJenkins2/src/main/java/org/example/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectForJenkins2/src/main/java/org/example/DriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectForJenkins2/src/main/java/org/example/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectForJenkins2/src/main/java/org/example/LoadProp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectForJenkins2/src/main/java/org/example/RegistrationFormPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectForJenkins2/src/main/java/org/example/RegistrationResultPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectForJenkins2/src/main/java/org/example/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectForJenkins2/src/test/java/TestConfig/TestData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectForJenkins2/src/test/java/org/example/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectForJenkins2/src/test/java/org/example/TestSuit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumFirstHomework/SeleniumFirstHomework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../String Methods/String Methods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Team QA/Team QA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-automation-boilerplate/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-automation-boilerplate/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-automation-boilerplate/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-automation-boilerplate/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-automation-boilerplate/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-automation-boilerplate/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-automation-boilerplate/src/test/java/posts/BlogPosts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-automation-boilerplate/src/test/java/weather/WeatherApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forLoop/forLoop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../while Loop/while Loop.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Q7FwIgmVsc36VIvnePsUgBcZ5R" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3524149-c06f-4375-848a-acf6817d3d43" name="Changes" comment="" />
+      <created>1684696953143</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684696953143</updated>
+    </task>
+    <servers />
+  </component>
+</project>
